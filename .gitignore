@@ -1,0 +1,40 @@
+
+Pods/SwiftyJSON/LICENSE
+Pods/SwiftyJSON/README.md
+Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift
+Pods/Target Support Files/Pods-PulentiOS/Info.plist
+Pods/Target Support Files/Pods-PulentiOS/Pods-PulentiOS-acknowledgements.markdown
+Pods/Target Support Files/Pods-PulentiOS/Pods-PulentiOS-acknowledgements.plist
+Pods/Target Support Files/Pods-PulentiOS/Pods-PulentiOS-dummy.m
+Pods/Target Support Files/Pods-PulentiOS/Pods-PulentiOS-frameworks.sh
+Pods/Target Support Files/Pods-PulentiOS/Pods-PulentiOS-resources.sh
+Pods/Target Support Files/Pods-PulentiOS/Pods-PulentiOS-umbrella.h
+Pods/Target Support Files/Pods-PulentiOS/Pods-PulentiOS.debug.xcconfig
+Pods/Target Support Files/Pods-PulentiOS/Pods-PulentiOS.modulemap
+Pods/Target Support Files/Pods-PulentiOS/Pods-PulentiOS.release.xcconfig
+Pods/Target Support Files/Pods-PulentiOSTests/Info.plist
+Pods/Target Support Files/Pods-PulentiOSTests/Pods-PulentiOSTests-acknowledgements.markdown
+Pods/Target Support Files/Pods-PulentiOSTests/Pods-PulentiOSTests-acknowledgements.plist
+Pods/Target Support Files/Pods-PulentiOSTests/Pods-PulentiOSTests-dummy.m
+Pods/Target Support Files/Pods-PulentiOSTests/Pods-PulentiOSTests-frameworks.sh
+Pods/Target Support Files/Pods-PulentiOSTests/Pods-PulentiOSTests-resources.sh
+Pods/Target Support Files/Pods-PulentiOSTests/Pods-PulentiOSTests-umbrella.h
+Pods/Target Support Files/Pods-PulentiOSTests/Pods-PulentiOSTests.debug.xcconfig
+Pods/Target Support Files/Pods-PulentiOSTests/Pods-PulentiOSTests.modulemap
+Pods/Target Support Files/Pods-PulentiOSTests/Pods-PulentiOSTests.release.xcconfig
+Pods/Target Support Files/Pods-PulentiOSUITests/Info.plist
+Pods/Target Support Files/Pods-PulentiOSUITests/Pods-PulentiOSUITests-acknowledgements.markdown
+Pods/Target Support Files/Pods-PulentiOSUITests/Pods-PulentiOSUITests-acknowledgements.plist
+Pods/Target Support Files/Pods-PulentiOSUITests/Pods-PulentiOSUITests-dummy.m
+Pods/Target Support Files/Pods-PulentiOSUITests/Pods-PulentiOSUITests-frameworks.sh
+Pods/Target Support Files/Pods-PulentiOSUITests/Pods-PulentiOSUITests-resources.sh
+Pods/Target Support Files/Pods-PulentiOSUITests/Pods-PulentiOSUITests-umbrella.h
+Pods/Target Support Files/Pods-PulentiOSUITests/Pods-PulentiOSUITests.debug.xcconfig
+Pods/Target Support Files/Pods-PulentiOSUITests/Pods-PulentiOSUITests.modulemap
+Pods/Target Support Files/Pods-PulentiOSUITests/Pods-PulentiOSUITests.release.xcconfig
+Pods/Target Support Files/SwiftyJSON/Info.plist
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON-dummy.m
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON.modulemap
+Pods/Target Support Files/SwiftyJSON/SwiftyJSON.xcconfig
